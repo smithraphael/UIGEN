@@ -1,0 +1,26 @@
+CLAUDE.md
+CLAUDE.local.md
+.env
+node_modules/
+.next/
+prisma/dev.db
+prisma/dev.db-journal
+
+# OS
+.DS_Store
+__MACOSX/
+
+# Local tooling
+.claude/
+.mcp.json
+.playwright-mcp/
+
+# Logs and images (dev artifacts)
+logs.txt
+*.png
+
+# Generated
+src/generated/
+
+# Next.js
+next-env.d.ts
